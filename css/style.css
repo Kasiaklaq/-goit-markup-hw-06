@@ -212,8 +212,8 @@
     }
 
     @media screen and (min-device-pixel-ratio:2),
-    screen and (min-resolutino: 192dpi),
-    screen and (min-resolutino: 2dppx) {
+    screen and (min-resolution: 192dpi),
+    screen and (min-resolution: 2dppx) {
         .button-section {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
                 url(../images/Dark-bgmobilex2.jpg);
@@ -570,7 +570,8 @@
     }
 
     @media screen and (min-device-pixel-ratio:2),
-    screen and (min-resolutino: 192dpi) {
+    screen and (min-resolution: 192dpi),
+    screen and (min-resolution: 2dppx) {
         .button-section {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
                 url(../images/Dark-bgx2tablet.jpg);
@@ -903,8 +904,8 @@
     }
 
     @media screen and (min-device-pixel-ratio: 2),
-    screen and (min-resolutino: 192dpi),
-    screen and (min-resolutino: 2dppx) {
+    screen and (min-resolution: 192dpi),
+    screen and (min-resolution: 2dppx) {
         .button-section {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
                 url(../images/people-office1x2deskopt.jpg);
