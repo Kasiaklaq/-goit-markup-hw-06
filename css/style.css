@@ -133,7 +133,6 @@
     }
 
     .hamburger-menu-nav {
-        margin: 48px 0 0 16px;
         font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
@@ -203,12 +202,12 @@
         max-width: 320px;
         background-color: #2e2f42;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(../images/background_button_mobil_1x.jpg);
+            url(../images/Dark-bgmobilex1.jpg);
         background-repeat: no-repeat;
         background-position: center;
         /* width 320px 768px */
         background-size: contain;
-        padding: 88px 0;
+        padding: 72px 0;
         text-align: center;
     }
 
@@ -217,7 +216,7 @@
     screen and (min-resolutino: 2dppx) {
         .button-section {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(../images/background_button_mobil_2x.jpg);
+                url(../images/Dark-bgmobilex2.jpg);
         }
     }
 
@@ -561,12 +560,12 @@
         max-width: 768px;
         background-color: #2e2f42;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(../images/background_button_tablet_1x.jpg);
+            url(../images/Dark-bgx1tablet.jpg);
         background-repeat: no-repeat;
         background-position: center;
         /* width 320px 768px */
-        background-size: contain;
-        padding: 106px 0;
+        background-size: cover;
+        padding: 112px 0;
         text-align: center;
     }
 
@@ -575,7 +574,7 @@
     screen and (min-resolutino: 2dppx) {
         .button-section {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(../images/background_button_tablet_2x.jpg);
+                url(../images/Dark-bgx2tablet.jpg);
         }
     }
 
@@ -670,7 +669,7 @@
         border-radius: 0px 0px 4px 4px;
         box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
         /* resolution: 768px; */
-        width: calc((100% - 210px) / 2)
+        width: calc((100% - 220px) / 2)
     }
 
     /* ---------------------------4 PRODUCTS SECTION--------------------------- */
@@ -895,7 +894,7 @@
         max-width: 1440px;
         background-color: #2e2f42;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(../images/background_button_desktop_1x.jpg);
+            url(../images/people-office.jpg);
         background-repeat: no-repeat;
         background-position: center;
         /* width 1158px */
@@ -909,7 +908,7 @@
     screen and (min-resolutino: 2dppx) {
         .button-section {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(../images/background_button_desktop_2x.jpg);
+                url(../images/people-office1x2deskopt.jpg);
         }
     }
 
